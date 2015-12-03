@@ -1,0 +1,1 @@
+java -cp .:./../ojdbc6.jar JdbcMetadonne
